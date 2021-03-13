@@ -1,0 +1,20 @@
+
+HOLA, ¿Tienes problemas con la herramienta?
+No te preocupes aquí te explico como funciona
+
+A) Tienes que elegir una de las oociones mostradas en el menú.
+B) Luego deja que RedTools haga el resto.
+C) Despues de esto solo accede a la herramienta que instalaste con
+el comando:
+
+cd NAMETOOL
+
+- SOLO QUE EN LUGAR DE NAMETOOL DEBE IR EL NOMBRE DE LA HERRAMIENTA 
+INSTALADA, POR EJEMPLO: cd FotoSploit
+
+- LUEGO DE ESTO EJECUTA TODOS LOS COMANDOS DE LA HERRAMIENTA 
+
+D) Para salir la opcion es 99
+E) Para ver los comandos de las herramientas es la opcion 100
+
+¡BENYAMIN-CREATOR AGRADECE POR USAR ESTA HERRAMIENTA!
