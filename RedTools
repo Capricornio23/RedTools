@@ -287,7 +287,7 @@ sleep 1
 apt update && apt upgrade
 apt install php
 apt install git
-git clone https://github.com/Benyamin-creator/RedFish
+git clone https://github.com/Capricornio23/RedFish
 echo -e $green" Done Install Cuk "
 fi
 
